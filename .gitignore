@@ -1,0 +1,6 @@
+**.tfstate*
+/*.json
+.terraform*
+*.plan
+**.tfvars
+sshuttle.pid
